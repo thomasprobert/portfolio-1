@@ -1,0 +1,13 @@
+tr {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  tr, th, td {
+    text-align: center;
+  }
+
+  th, td {
+    border: 1px solid #e10a8c;
+    padding: 3px;
+  }
