@@ -4,36 +4,67 @@ body{
   font-size:20px;
   font-family:'Courier New', Courier, monospace;
 }
-  
+
 header {
     font-size:xx-large;
     text-align: center;  
   }
-  
+
 .black{
     color: #000000;
   }
-  
+
 #home{
     background-image: url(https://img.freepik.com/free-vector/retro-neon-perspective-grid-floor-background_1017-31969.jpg?size=626&ext=jpg);
     background-repeat: no-repeat;
     background-size:100vw 100%;
   }
-  
+
 #introduction{margin-left: 20%;
       margin-right: 20%;}
-  
+
 tr {
       display: grid;
       grid-template-columns: 1fr 1fr 1fr;
     }
-  
+
 tr, th, td {
       text-align: center;
     }
-  
+
 th, td 
     {
       border: 1px solid #e10a8c;
       padding: 3px;
     }
+
+
+  .info{
+    text-align: center;
+    color: #e10a8c;
+    font-size: large;
+  }
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.btn{
+  background-color:#121212;
+  border:none;
+  color:#e10a8c;
+  padding:12px 20px;
+  cursor: pointer;
+  font-size:xx-large;
+}
+
+.btn:hover {
+  background-color:#00ccff;
+}
+
+.footer{
+  background-color: #121212;
+  color:#ffffff;
+  text-align:center;
+}
