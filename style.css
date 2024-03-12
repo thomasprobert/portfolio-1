@@ -91,3 +91,35 @@ nav a {
 .disclaimer{
   font-size: xx-small;
 }
+
+#drinks{width: 30%;
+        margin: 1rem 0;
+        display:inline-block;
+}
+
+#video{ text-align: center;
+}
+
+#image{ display:block;
+       padding-left: 15em;
+}
+
+#test{text-align:center;
+}
+
+#table{margin-left:auto;
+       margin-right:auto;
+}
+
+#tables{margin-left:auto;
+       margin-right:auto;        
+}
+
+#job{
+  text-align: center;
+}
+
+.attribute{
+  font-size: smallest;
+  text-align: right;
+}
