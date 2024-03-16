@@ -49,3 +49,15 @@ To check the visibility and accessibilty of my colors and fonts, i tested my cod
 
 ### Form
 ![alt text](<assets/readme images/form.png>)
+
+## Acknowledgements
+
+### Code
+Some code take from https://www.w3schools.com/ when struggling to form certain Items.
+
+### Images
+Images used were free use images from https://www.pexels.com/
+ https://www.freepik.com/ and https://twobeardgaming.wordpress.com/
+
+ ## Video
+ Video used was a free use stock video available on youtube.
