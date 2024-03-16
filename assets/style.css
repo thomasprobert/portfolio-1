@@ -1,6 +1,6 @@
 body{
   background-color:black;
-  color:#e10a8c;
+  color:#F55CB8;
   font-size:20px;
   font-family:'Courier New', Courier, monospace;
 }
@@ -34,13 +34,13 @@ tr, th, td {
 
 th, td 
     {
-      border: 1px solid #e10a8c;
+      border: 1px solid #F55CB8;
       padding: 3px;
     }
 
   .info{
     text-align: center;
-    color: #e10a8c;
+    color: #F55CB8;
     font-size: large;
   }
 
@@ -52,7 +52,7 @@ html {
 .btn{
   background-color:#121212;
   border:none;
-  color:#e10a8c;
+  color:#F55CB8;
   padding:12px 20px;
   cursor: pointer;
   font-size:xx-large;
