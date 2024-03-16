@@ -17,3 +17,27 @@ Rose Tinted is a site designed to advertise a retro style arcade. Rose Tinted wi
 
 ***
 
+## Features
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Validation
+html
+
+
+- CSS
+  - No errors were returned when passing through official jigsaw validator.
+https://jigsaw.w3.org/css-validator/validator
