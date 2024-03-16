@@ -34,9 +34,14 @@ Rose Tinted is a site designed to advertise a retro style arcade. Rose Tinted wi
 
 
 
-## Validation
-html
+## Testing
 
+### Validator Testing
+
+- HTML
+   - Index: 3 errors returned when passed through W3C validator https://validator.w3.org/nu/#textarea
+
+   - Opentimes: 8 errors returned when passed through W3C validator https://validator.w3.org/nu/#textarea
 
 - CSS
   - No errors were returned when passing through official jigsaw validator.
