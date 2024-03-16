@@ -14,3 +14,6 @@ Rose Tinted is a site designed to advertise a retro style arcade. Rose Tinted wi
 |5|As a potential customer, <br> I want to be able to easily see when the shop is open and how much admission costs.<br><br>I know I am done when the website clearly displays opening times and admission costs.|
 |6|As a potential returning customer, <br> I would like to enter my email address so that I could potentially receive information about future events and offers.<br><br>I know I am done when its possible to submit an email and receive confirmation.|
 |7|As a potential returning customer, <br> I want to be able to see how and where I can follow the companies social media.<br><br>I know I am done when social media links are visible on the page that open up to required social media sites on a new tab.|
+
+***
+
