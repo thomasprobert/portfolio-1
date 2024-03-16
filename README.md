@@ -17,32 +17,35 @@ Rose Tinted is a site designed to advertise a retro style arcade. Rose Tinted wi
 
 ***
 
-## Features
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Testing
 
 ### Validator Testing
 
 - HTML
-   - Index: 3 errors returned when passed through W3C validator https://validator.w3.org/nu/#textarea
+   - Index: 3 syntax errors returned when passed through W3C validator https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fcrispy-train-v6pv955w6x7jfw457-8000.app.github.dev%2Fopentimes.html#textarea
 
-   - Opentimes: 8 errors returned when passed through W3C validator https://validator.w3.org/nu/#textarea
+   - Opentimes: 8 syntax errors returned when passed through W3C validator https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fcrispy-train-v6pv955w6x7jfw457-8000.app.github.dev%2Fopentimes.html#textarea
+
+   - Whatsavailable: 7 syntax errors returned when passed through w3c validator https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fcrispy-train-v6pv955w6x7jfw457-8000.app.github.dev%2Fopentimes.html#textarea
+
+   -Form: No Syntax errors returned when passed through w3c validator https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fcrispy-train-v6pv955w6x7jfw457-8000.app.github.dev%2Fopentimes.html
+
 
 - CSS
-  - No errors were returned when passing through official jigsaw validator.
-https://jigsaw.w3.org/css-validator/validator
+  - No errors were returned when passing through official jigsaw validator https://jigsaw.w3.org/css-validator/validator
+
+ ## Accessibility Testing
+
+To check the visibility and accessibilty of my colors and fonts, i tested my code with Lighthouse in the Google devtools. The results are shown below.
+
+### Index
+![alt text](<assets/readme images/Index.png>)
+
+### Whats Available
+![alt text](<assets/readme images/whats available.png>)
+
+### Opening Times
+![alt text](<assets/readme images/opening times.png>)
+
+### Form
+![alt text](<assets/readme images/form.png>)
