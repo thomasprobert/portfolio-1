@@ -55,7 +55,7 @@ html {
   color:#F55CB8;
   padding:12px 20px;
   cursor: pointer;
-  font-size:xx-large;
+  font-size:x-large;
 }
 
 .btn:hover {
@@ -66,7 +66,15 @@ html {
   background-color: #121212;
   color:#ffffff;
   text-align:center;
+  width:100%;
+  margin:auto;
 }
+
+.freepik{
+  text-decoration: none;
+  color:#F55CB8;
+}
+
 
 nav{margin-left:30%;
     margin-right:30%;
